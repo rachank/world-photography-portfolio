@@ -1,3 +1,19 @@
-body {
-    font-family: arial;
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Libre+Baskerville&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+/* Heading and Logo */
+
+h1, h2 {
+    font-family: Courgette, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: black;
+}
+
+
+
